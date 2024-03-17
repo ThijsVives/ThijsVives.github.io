@@ -37,3 +37,19 @@ li a{
     box-shadow: 0 0;
 }
 
+table{
+    border-width: 2px;
+    background-color: forestgreen;
+    border-radius: 5px;
+}
+
+th{
+    border-width: 0 0 2px 0;
+    border-color: yellow;
+    border-style: solid;
+}
+
+td{
+    padding: 5px;
+}
+
