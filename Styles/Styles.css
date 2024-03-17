@@ -1,0 +1,39 @@
+body{
+    background-image: url("../hyrule/zeldadribble.png");
+    background-size: auto;
+    background-repeat: repeat;
+
+    color: yellow;
+}
+
+header h1{
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+img{
+    border-radius: 50px;
+    box-shadow: 10px 10px black;
+}
+
+a{
+    padding: 5px;
+    color: yellow;
+    border: yellow 3px solid;
+    border-radius: 10px;
+    text-decoration: none;
+
+    box-shadow: 3px 3px black;
+}
+
+footer{
+    text-align: center;
+}
+
+li a{
+    border-width: 0;
+    text-decoration: underline;
+    box-shadow: 0 0;
+}
+
